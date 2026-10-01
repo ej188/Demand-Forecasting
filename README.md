@@ -1,4 +1,4 @@
-# Temporal Fusion Transformer Supply Chain Forecasting
+# Demand Forecasting
 
 This repository is a public project summary for a multivariate time-series forecasting workflow built to forecast monthly shipment demand across supplier-part combinations. The public version focuses on the modeling approach, validation design, performance evaluation, baseline context, and operational impact while excluding private datasets, internal paths, credentials, trained checkpoints, and raw notebooks.
 
